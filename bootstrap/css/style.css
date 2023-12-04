@@ -1,0 +1,36 @@
+.bg-dark
+{
+	background:linear-gradient(45deg,darkslategrey,black);
+}
+.bg-primary 
+{
+	background:linear-gradient(45deg,darkslategrey,rgb(84,123,161));
+}
+.bg-primary,.btn-primary
+{
+	background:linear-gradient(45deg,darkslategrey,rgb(0,35,164));
+}
+.bg-danger,.btn-danger
+{
+	background:linear-gradient(45deg,darkslategrey,red);
+}
+.bg-success,.btn-success 
+{
+	background:linear-gradient(45deg,darkslategrey,rgb(25,160,52));
+}
+.bg-warning,.btn-warning
+{
+	background:linear-gradient(45deg,darkslategrey,rgb(235,174,27));
+}
+.dropdown-item:hover
+{
+	background:linear-gradient(45deg,darkslategrey,black);
+	color:white!important;
+}
+.bg-teal 
+{
+	background:linear-gradient(45deg,darkslategrey,rgb(7,108,89));
+}
+.img-fluid{
+	border: 2px solid black !important;
+}
